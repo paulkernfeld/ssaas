@@ -11,7 +11,8 @@ var urls = [
   "http://www.akamai.com/html/technology/dataviz1.html",
   "http://bitcoinity.org/markets",
   "http://www.listentobitcoin.com/",
-  "http://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5"
+  "http://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5",
+  "https://map.zkillboard.com/"
 ];
 
 setTimeout(function() {
