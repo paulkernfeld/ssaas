@@ -7,7 +7,6 @@ var urls = [
   "http://earth.nullschool.net/",
   "http://world.deviantart.com/",
   "http://bostonography.com/bus/",
-  "http://wwwnui.akamai.com/gnet/globe/index.html",
   "http://www.akamai.com/html/technology/dataviz1.html",
   "http://bitcoinity.org/markets",
   "http://www.listentobitcoin.com/",
