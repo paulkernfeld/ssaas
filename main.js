@@ -16,5 +16,5 @@ var urls = [
 
 setTimeout(function() {
   window.location = urls[Math.floor(Math.random() * urls.length)];
-}, 1000);
+}, 5000);
 

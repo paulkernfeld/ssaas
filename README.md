@@ -1,1 +1,11 @@
-All the real action is on the gh-pages branch.
+SSaaS
+=====
+Screen saver as a service.
+
+This provides a page that you can point your browser to, which redirects to moderately cool visualizations.
+
+Usage
+-----
+This is designed to be used as a web screen saver. Point your browser to paulkernfeld.github.io/ssaas/ for screen saving action.
+
+For OSX, try [websaver](https://code.google.com/p/websaver/).
