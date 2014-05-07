@@ -6,6 +6,6 @@ This provides a page that you can point your browser to, which redirects to mode
 
 Usage
 -----
-This is designed to be used as a web screen saver. Point your browser to paulkernfeld.github.io/ssaas/ for screen saving action.
+This is designed to be used as a web screen saver. Point your browser to <http://paulkernfeld.github.io/ssaas/> for screen saving action.
 
 For OSX, try [websaver](https://code.google.com/p/websaver/).
