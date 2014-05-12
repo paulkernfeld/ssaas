@@ -3,7 +3,6 @@ var urls = [
   , "http://aworldoftweets.frogdesign.com/"
   , "http://www.tweetping.net/"
   , "http://hint.fm/wind/"
-  , "http://map.honeycloud.net/"
   , "http://earth.nullschool.net/"
   , "http://world.deviantart.com/"
   , "http://bostonography.com/bus/"
