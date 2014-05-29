@@ -1,1 +1,1 @@
-All the real action is on the gh-pages branch.
+All the real action is on the [gh-pages branch](https://github.com/paulkernfeld/ssaas/tree/gh-pages).
