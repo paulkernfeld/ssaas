@@ -12,6 +12,7 @@ var urls = [
   , "http://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5"
   , "https://map.zkillboard.com/"
   , "http://brandonreiss.com/noweats/"
+  , "http://forecast.io/#/f/40.7369,-73.9935"
 ];
 
 setTimeout(function() {
