@@ -8,4 +8,4 @@ Usage
 -----
 This is designed to be used as a web screen saver. Point your browser to <http://paulkernfeld.github.io/ssaas/> for screen saving action.
 
-For OSX, try [websaver](https://code.google.com/p/websaver/).
+For OSX, try [websaver](https://code.google.com/p/websaver/). You may need to [enable WebGL in Safari](https://discussions.apple.com/thread/3300585?start=0)
