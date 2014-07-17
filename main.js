@@ -14,6 +14,8 @@ var urls = [
   , "http://brandonreiss.com/noweats/"
   , "http://forecast.io/#/f/40.7369,-73.9935"
   , "http://wwwnui.akamai.com/gnet/globe/index.html"
+  , "http://www.blitzortung.org/Webpages/index.php?lang=en"
+  , "http://www.lightningmaps.org/blitzortung/america/index.php?lang=en"
 ];
 
 setTimeout(function() {
