@@ -16,6 +16,13 @@ var urls = [
   , "http://wwwnui.akamai.com/gnet/globe/index.html"
   , "http://www.blitzortung.org/Webpages/index.php?lang=en"
   , "http://www.lightningmaps.org/blitzortung/america/index.php?lang=en"
+  , "http://tracker.geops.ch/?z=12&s=1&lat=40.77&lon=-73.81"
+  , "http://seb.ly/demos/MMOsteroids.html"
+  , "http://www.thesinglelanesuperhighway.com/"
+  , "http://experiments.lionel.me/blocs/"
+  , "http://viz.runningwithdata.com/boids/"
+  , "http://theorigin.net/ablazejs/"
+  , "http://moonlander.seb.ly/viewer/"
 ];
 
 setTimeout(function() {
