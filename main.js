@@ -23,6 +23,7 @@ var urls = [
   , "http://viz.runningwithdata.com/boids/"
   , "http://theorigin.net/ablazejs/"
   , "http://moonlander.seb.ly/viewer/"
+  , "http://www.flightradar24.com/40.68,-74/7"
 ];
 
 setTimeout(function() {
