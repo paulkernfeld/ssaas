@@ -23,6 +23,8 @@ var urls = [
   , "http://viz.runningwithdata.com/boids/"
   , "http://theorigin.net/ablazejs/"
   , "http://moonlander.seb.ly/viewer/"
+  , "http://www.newsola.com/#/us/"
+  , "https://dl.dropboxusercontent.com/u/16145652/flying/flying.html"
 ];
 
 setTimeout(function() {
