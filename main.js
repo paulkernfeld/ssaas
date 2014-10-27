@@ -25,6 +25,7 @@ var urls = [
   , "http://moonlander.seb.ly/viewer/"
   , "http://www.newsola.com/#/us/"
   , "https://dl.dropboxusercontent.com/u/16145652/flying/flying.html"
+  , "http://london.feels.website/"
 ];
 
 setTimeout(function() {
