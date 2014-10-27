@@ -26,6 +26,7 @@ var urls = [
   , "http://www.newsola.com/#/us/"
   , "https://dl.dropboxusercontent.com/u/16145652/flying/flying.html"
   , "http://london.feels.website/"
+  , "http://www.flightradar24.com/40.68,-74/7"
 ];
 
 setTimeout(function() {
