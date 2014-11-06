@@ -27,6 +27,10 @@ var urls = [
   , "https://dl.dropboxusercontent.com/u/16145652/flying/flying.html"
   , "http://london.feels.website/"
   , "http://www.flightradar24.com/40.68,-74/7"
+  , "http://blocks.wizb.it/"
+  , "http://dailyblockchain.github.io/"
+  , "http://bitcoin.interaqt.nl/"
+  , "http://fiatleak.com/"
 ];
 
 setTimeout(function() {
