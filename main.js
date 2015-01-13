@@ -31,6 +31,7 @@ var urls = [
   , "http://dailyblockchain.github.io/"
   , "http://bitcoin.interaqt.nl/"
   , "http://fiatleak.com/"
+  , "https://www.airbnb.com/map"
 ];
 
 setTimeout(function() {
