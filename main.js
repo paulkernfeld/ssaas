@@ -31,6 +31,9 @@ var urls = [
   , "http://bitcoin.interaqt.nl/"
   , "http://fiatleak.com/"
   , "https://www.airbnb.com/map"
+  , "http://realtimebitcoin.info/"
+  , "http://bitcointicker.co/"
+  , "http://emojitracker.com/kiosk"
 ];
 
 setTimeout(function() {
