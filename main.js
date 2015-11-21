@@ -4,6 +4,7 @@ var urls = [
   , "http://www.tweetping.net/"
   , "http://hint.fm/wind/"
   , "http://earth.nullschool.net/"
+  , "http://earth.nullschool.net/#current/wind/surface/level/overlay=temp/winkel3"
   , "http://world.deviantart.com/"
   , "http://bostonography.com/bus/"
   , "http://www.akamai.com/html/technology/dataviz1.html"
@@ -33,6 +34,8 @@ var urls = [
   , "http://realtimebitcoin.info/"
   , "http://bitcointicker.co/"
   , "http://emojitracker.com/kiosk"
+  , "http://www.timeanddate.com/worldclock/sunearth.html"
+  , "http://www.census.gov/popclock/"
 ];
 
 setTimeout(function() {
