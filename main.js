@@ -36,6 +36,7 @@ var urls = [
   , "http://emojitracker.com/kiosk"
   , "http://www.timeanddate.com/worldclock/sunearth.html"
   , "http://www.census.gov/popclock/"
+  , "http://earth.nullschool.net/#current/chem/surface/level/overlay=so2smass/equirectangular"
 ];
 
 setTimeout(function() {
