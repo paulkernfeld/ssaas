@@ -37,6 +37,8 @@ var urls = [
   , "http://www.timeanddate.com/worldclock/sunearth.html"
   , "http://www.census.gov/popclock/"
   , "http://earth.nullschool.net/#current/chem/surface/level/overlay=so2smass/equirectangular"
+  , "http://isaiahodhner.ml/pipes/"
+  , "http://flightaware.com/miserymap/"
 ];
 
 setTimeout(function() {
