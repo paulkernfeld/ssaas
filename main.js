@@ -39,6 +39,8 @@ var urls = [
   , "http://earth.nullschool.net/#current/chem/surface/level/overlay=so2smass/equirectangular"
   , "http://isaiahodhner.ml/pipes/"
   , "http://flightaware.com/miserymap/"
+  , "http://szyzyg.arm.ac.uk/~spm/neostorm.png"
+  , "http://stuffin.space/"
 ];
 
 setTimeout(function() {
