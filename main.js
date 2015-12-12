@@ -41,6 +41,9 @@ var urls = [
   , "http://flightaware.com/miserymap/"
   , "http://szyzyg.arm.ac.uk/~spm/neostorm.png"
   , "http://stuffin.space/"
+  , "http://www.healthmap.org/en/"
+  , "http://outbreaks.globalincidentmap.com/"
+  , "http://www.globalincidentmap.com/"
 ];
 
 setTimeout(function() {
