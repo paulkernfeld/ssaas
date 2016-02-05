@@ -43,6 +43,7 @@ var urls = [
   , "http://www.healthmap.org/en/"
   , "http://outbreaks.globalincidentmap.com/"
   , "http://www.globalincidentmap.com/"
+  , "https://blockchain.info/nodes-globe"
 ];
 
 setTimeout(function() {
