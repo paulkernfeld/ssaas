@@ -5,7 +5,6 @@ var urls = [
   , "http://hint.fm/wind/"
   , "http://earth.nullschool.net/"
   , "http://earth.nullschool.net/#current/wind/surface/level/overlay=temp/winkel3"
-  , "http://world.deviantart.com/"
   , "http://bostonography.com/bus/"
   , "http://www.akamai.com/html/technology/dataviz1.html"
   , "http://bitcoinity.org/markets"
