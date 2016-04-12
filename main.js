@@ -44,6 +44,7 @@ var urls = [
   , "http://outbreaks.globalincidentmap.com/"
   , "http://www.globalincidentmap.com/"
   , "https://blockchain.info/nodes-globe"
+  , "http://bitbonkers.com/
 ];
 
 setTimeout(function() {
