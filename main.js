@@ -65,7 +65,6 @@ var urls = [
   , "http://world.deviantart.com/"
   , "http://lhcdashboard.web.cern.ch/lhcdashboard/"
   , "https://www.google.com/trends/hottrends/visualize"
-  , "http://newsmap.jp/"
 ];
 
 setTimeout(function() {
