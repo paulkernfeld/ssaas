@@ -65,6 +65,14 @@ var urls = [
   , "http://world.deviantart.com/"
   , "http://lhcdashboard.web.cern.ch/lhcdashboard/"
   , "https://www.google.com/trends/hottrends/visualize"
+  , "http://hisz.rsoe.hu/alertmap/index2.php"
+  , "http://radiationnetwork.com/"
+  , "http://realtime.info/"
+  , "https://torflow.uncharted.software/#?ML=-42.01171875,40.01078714046552,4"
+  , "http://gridwatch.co.uk/"
+  , "https://www.robscanlon.com/github-wargames/"
+  , "http://www.opentraintimes.com/maps/signalling/ctrl_1"
+  , "https://www.radarbox24.com"
 ];
 
 setTimeout(function() {
