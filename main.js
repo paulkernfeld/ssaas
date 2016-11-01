@@ -23,7 +23,6 @@ var urls = [
   , "http://theorigin.net/ablazejs/"
   , "http://moonlander.seb.ly/viewer/"
   , "http://www.newsola.com/#/us/"
-  , "https://dl.dropboxusercontent.com/u/16145652/flying/flying.html"
   , "http://london.feels.website/"
   , "http://www.flightradar24.com/40.68,-74/7"
   , "http://blocks.wizb.it/"
