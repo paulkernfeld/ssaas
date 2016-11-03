@@ -72,6 +72,12 @@ var urls = [
   , "https://www.robscanlon.com/github-wargames/"
   , "http://www.opentraintimes.com/maps/signalling/ctrl_1"
   , "https://www.radarbox24.com"
+  , "https://etherchain.org/"
+  , "http://dogechain.info/chain/Dogecoin"
+  , "https://eternitywall.it/"
+  , "https://namecha.in/"
+  , "https://explorer.zcha.in/"
+  , "http://coinsecrets.org/"
 ];
 
 setTimeout(function() {
