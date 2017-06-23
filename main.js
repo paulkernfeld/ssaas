@@ -50,7 +50,6 @@ var urls = [
   , "http://www.nnvl.noaa.gov/weatherview/index.html"
   , "http://www.n2yo.com/"
   , "http://www.scrolldit.com/"
-  , "http://www.erqqvg.com/"
   , "http://www.lkozma.net/wpv/"
   , "http://tracker.geops.ch/?z=13&s=1&x=-7910896.4053&y=5214033.6817&l=transport"
   , "http://tracker.geops.ch/?z=13&s=1&x=-13628113.1078&y=4547861.2101&l=transport"
