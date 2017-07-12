@@ -1,6 +1,5 @@
 var urls = [
   "http://getaddr.bitnodes.io/"
-  , "http://aworldoftweets.frogdesign.com/"
   , "http://www.tweetping.net/"
   , "http://hint.fm/wind/"
   , "http://earth.nullschool.net/"
