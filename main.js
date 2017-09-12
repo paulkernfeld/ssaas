@@ -76,6 +76,7 @@ var urls = [
   , "https://namecha.in/"
   , "https://explorer.zcha.in/"
   , "http://coinsecrets.org/"
+  , "https://bitcoinfees.21.co/"
 ];
 
 setTimeout(function() {
