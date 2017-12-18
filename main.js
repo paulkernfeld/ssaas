@@ -55,7 +55,6 @@ var urls = [
   , "https://patriciogonzalezvivo.github.io/tangram-sandbox/tangram.html?styles/tilt-ikeda#14/40.7300/-73.9770"
   , "http://ds.iris.edu/seismon/"
   , "http://radioactiveathome.org/map/"
-  , "http://pennystocks.la/battle-of-internet-giants/"
   , "http://www.marinetraffic.com/en/ais/home/centerx:25/centery:37/zoom:9"
   , "http://www.bitcoinmonitor.com/"
   , "https://www.youtube.com/feed/trending"
