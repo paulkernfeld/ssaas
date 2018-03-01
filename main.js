@@ -56,7 +56,6 @@ var urls = [
   , "http://radioactiveathome.org/map/"
   , "http://www.marinetraffic.com/en/ais/home/centerx:25/centery:37/zoom:9"
   , "http://www.bitcoinmonitor.com/"
-  , "https://www.youtube.com/feed/trending"
   , "http://world.deviantart.com/"
   , "http://lhcdashboard.web.cern.ch/lhcdashboard/"
   , "https://www.google.com/trends/hottrends/visualize"
