@@ -41,7 +41,6 @@ var urls = [
   , "http://www.healthmap.org/en/"
   , "http://outbreaks.globalincidentmap.com/"
   , "http://www.globalincidentmap.com/"
-  , "https://blockchain.info/nodes-globe"
   , "http://bitbonkers.com/"
   , "https://www.fireeye.com/cyber-map/threat-map.html"
   , "http://map.norsecorp.com/#/",
