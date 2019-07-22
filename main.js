@@ -71,6 +71,7 @@ var urls = [
   , "https://explorer.zcha.in/"
   , "http://coinsecrets.org/"
   , "https://bitcoinfees.21.co/"
+  , "https://www.nyiso.com/real-time-dashboard"
 ];
 
 setTimeout(function() {
